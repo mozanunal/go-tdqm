@@ -1,2 +1,2 @@
-# go-tdqm
-tdqm module for golang
+# go-tqdm
+tqdm module for golang
